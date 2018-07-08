@@ -46,7 +46,7 @@
   + AJAX撈取遠端JSON資料。
   + 利用JS撰寫換頁效果。
 * [訂單管理頁面](https://gigd123.github.io/gigd123-F2E/third-week/)
-  + 套用 google charts 。
+  + 套用 Google Charts 。
   + 利用 AJAX 撰寫換頁效果。
 * [WarmStudio](https://warmstudio.github.io/)
   + bootstrap 框架使用。
