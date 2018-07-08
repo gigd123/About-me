@@ -3,8 +3,7 @@
 * Location : 台中市西區三民路一段166號4樓之5
 * E-Mail : gigdleo@gmail.com
 * Mobile : 0987-399-795
-<br>
-## Work Experience ##
+## Work Experience
 --------------------
 * 2016 春社消防隊替代役
   + 協助隊員進行救災、救護任務。
