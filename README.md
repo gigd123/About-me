@@ -48,11 +48,8 @@
 * [訂單管理頁面](https://gigd123.github.io/gigd123-F2E/third-week/)
   + 套用 Google Charts 。
   + 利用 AJAX 撰寫換頁效果。
-* [WarmStudio](https://warmstudio.github.io/)
-  + bootstrap 框架使用。
-  + 跟設計人員溝通網頁畫面及布局。  
-  + 配合其他組員撰寫程式，制定 HTML 架構、 CSS 命名方式，並統整程式。
-  + 使用 AOS.css 、 Animate.css 、 Anime.js 等套件製作網頁動畫效果。
+* [Vue-Todolist幫你記住重要事項](https://gigd123.github.io/vue-todolist/)
+  +  Vue.js 資料綁定製作。
 * [六角西餐廳](https://gigd123.github.io/rwd-finalwork/)
   + 不套用框架，多頁面 RWD 。
   + 利用 AJAX 串聯遠端 API ，製作註冊跟登入檢測功能。
