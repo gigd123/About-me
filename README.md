@@ -1,6 +1,6 @@
 # LeoLiu（劉奉一）
 * Education : 中興大學歷史所
-* Location : 台中市西區三民路一段166號4樓之5
+* Location : 台北市文山區辛亥路四段101巷120號5樓  
 * E-Mail : gigdleo@gmail.com
 * Mobile : 0987-399-795
 ## Work Experience
