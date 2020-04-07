@@ -3,15 +3,17 @@
 * Location : 台北市文山區辛亥路四段101巷120號5樓  
 * E-Mail : gigdleo@gmail.com
 * Mobile : 0987-399-795
+## Introduction
+我來自台北，現居台中。退役後，由於想轉換跑道，因而參與了職訓局的課程。在課程中發現自己對於前端網頁開發有興趣，結訓後便透過線上課程，持續學習前端技術。未來將持續精進前端技術，並在閒暇之餘，學習後端及網頁設計，不斷加強自己。
 ## Work Experience
-* 2016 春社消防隊替代役
-  + 協助隊員進行救災、救護任務。
-  + 協助隊員進行消防宣導。
-  + 經營分隊粉絲專業。
-* 2008 南村落暑期工讀
-  + 協助活動導覽。
-  + 協助文書資料整理。
-  + 協助課堂資料整理。
+* 2018/09-2020/03 美商網碩科技股份有限公司台灣分公司 前端工程師
+  + 公司 landing page 頁面製作，負責一位美國工程師完成到一半的案子，註冊大概分成5個步驟，我主要是負責修除 layout 及註冊功能上的 bug。
+  + 多人協同開發直播網站，以 Angular7/8 做為開發環境，使用 RxJS 來更有效的處理異步功能，使用 GitLab 進行版本控制，我在這個專案中，主要負責處理 model 個人資料的 render，並串接其中一個直播模式(利用 websocket)，並且協助處理多語系 bug。
+  + 多人協同開發直播網站，使用 React 開發，主要負責協助 Layout 及多語系部分開發，團隊使用 Material UI 及 React-intl 來處理這部分功能，另外也協助直播模式的串接與測試。
+* 2018/05-2018/06 數位方塊有限公司 課程助教
+  + 擔任數位方塊網站設計職訓課程助教，協助講師處理學員疑問，主要負責處理 web layout 及 RWD 問題，以及簡易的 JS 或 jQuery 動畫特效。
+* 2018/05-2018/06 全富數位有限公司 網頁切版
+  + 由於當時剛開始學習 JavaScript，因此我在這一份工作中，主要都是處理 web layout  及 RWD 的問題。
 ## Other Experience
 * 2017年 職訓局網路行銷課
   + 了解 HTML5 、 CSS 運用。
@@ -33,31 +35,39 @@
   + 聖誕節5社聯合演出 
   + 瑞聯天地 社區新春演出
 ## Skill
-* 熟悉 HTML5 、 CSS ，並能完成R頁面架構和布局，不倚賴 CSS Framework 進行 RWD 客製化。
-* 使用 Bootstrap4 快速開發響應式網頁。
-* 使用 Scss 管理 CSS 。
-* 善用語意化的命名，使人容易閱讀。
-* 能使用 Flex / Grid 加速網頁布局。
-* 了解 Photoshop、Illustrator 基本工具操作。
-* 使用 Gulp 優化、壓縮 CSS 、 JavaScript。
-* 了解 Git / Gulp 基本運用。
+* Web Layout
+  + Flex , Grid 
+  + Bootstrap 4 
+  + 透過 SCSS 管理 CSS  
+  + 善用語意化的命名，使人容易閱讀 
+  + 不套用框架，手刻 RWD
+* Java Script
+  + ES6 
+  + jQuery - 製作簡易動畫效果 
+  + Ajax - 串接高雄市開放資料 
+  + 有使用 Google Map API 經驗
+* Angular 7/8
+  + Angular 環境開發，組件管理 
+  + TypeScript  
+  + Rxjs 
+* React
+  + React 環境開發，組件管理 
+  + TypeScript  
+  + React-intl 多語系開發
+  + 搭配 Material UI
+
 ## Works
-* [高雄市旅遊資訊](https://gigd123.github.io/second-week/)
-  + AJAX撈取遠端JSON資料。
-  + 利用JS撰寫換頁效果。
-* [訂單管理頁面](https://gigd123.github.io/gigd123-F2E/third-week/)
-  + 套用 Google Charts 。
-  + 利用 AJAX 撰寫換頁效果。
+* [運動產品電商](https://gigd123.github.io/vue-store/#/FrontDashboard/Home)
+  + 透過 Vue-CLI 與 Router 管理專案
+  + Vuex 狀態管理
+  + 套用 Bootstrap
+* [WarmStudio(職訓專題) ](https://warmstudio.github.io/)
+  + bootstrap 框架使用
+  + 跟設計人員溝通網頁畫面及布局
+  + 配合其他組員撰寫程式，制定 HTML 架構、 CSS 命名方式，並統整程式。
+  + 使用 AOS.css 、 Animate.css 、 Anime.js 等套件製作網頁動畫效果
 * [Vue-Todolist幫你記住重要事項](https://gigd123.github.io/vue-todolist/)
   +  Vue.js 資料綁定製作。
-* [六角西餐廳](https://gigd123.github.io/rwd-finalwork/)
-  + 不套用框架，多頁面 RWD 。
-  + 利用 AJAX 串聯遠端 API ，製作註冊跟登入檢測功能。
-* [BMI計算機](https://gigd123.github.io/js-final-work/final-work-2/)
-  + 利用 LocalStorage 存取紀錄的資訊
-  + 透過 Scss 作為預處理器修改網站外型。
- * [產品列表](https://gigd123.github.io/gigd123-F2E-4/)
-  + Grid 規劃版面。
-  + 利用 Gulp 開發，優化、壓縮HTML , CSS ,JavaScript檔案。
-## Introduction
-我來自台北，現居台中。退役後，由於想轉換跑道，因而參與了職訓局的課程。在課程中發現自己對於前端網頁開發有興趣，結訓後便透過線上課程，持續學習前端技術。未來將持續精進前端技術，並在閒暇之餘，學習後端及網頁設計，不斷加強自己。
+* [BMI計算機](https://gigd123.github.io/bmi-firebase/)
+  + 利用 Firebase 存取紀錄的資訊
+  + 透過 SCSS 作為預處理器修改網站外型
