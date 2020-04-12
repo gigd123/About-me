@@ -41,6 +41,7 @@
   + TypeScript  
   + React-intl 多語系開發
   + 搭配 Material UI
+  + mobx 資料狀態管理
 
 ## Works
 * [運動產品電商](https://gigd123.github.io/vue-store/#/FrontDashboard/Home)
